@@ -1,4 +1,12 @@
-### Hi there 👋
+# WELCOME TO MY PROFILE 👋
+
+## Hi, I'm Antonio
+
+
+Desarrollador Junior. 
+Conocimientos en entornos web tanto Front-end como Back-end, desktop y gestión de base de datos.
+Un gran apasionado de las nuevas tecnologias. 
+Actualmente renovando sus conocimentos 
 
 <!--
 **ANTONITURIS/ANTONITURIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
